@@ -6,10 +6,10 @@ This chapter begins as the party arrives in **Caer Callidyrr**, the bustling cap
 
 ---
 
-#### **Introduction**
+### **Introduction**
 
 > **Read Aloud:**
-> As your ship approaches the docks of Caer Callidyrr, the city sprawls before you, its white stone walls gleaming in the afternoon sun. The harbor buzzes with activity—fishermen unloading their catches, traders haggling over exotic goods, and dockworkers shouting orders to one another. Beyond the docks, the city rises in tiers, with narrow streets winding upward toward the castle that dominates the skyline. Its towers stand tall, banners emblazoned with the sigil of the Kendrick family fluttering in the sea breeze. This is a place where history and magic intertwine, and as you step ashore, you sense that the city holds both answers and dangers in equal measure.
+> As your ship approaches the docks of Caer Callidyrr, the city sprawls before you, its white stone walls gleaming in the afternoon sun. The harbor buzzes with activity—fishermen unloading their catches, traders haggling over exotic goods, and dockworkers shouting orders to one another. Beyond the docks, the city rises in tiers, with narrow streets winding upward toward the castle that dominates the skyline. Its towers stand tall, banners emblazoned with the sigil of the Kendrick family—an anchor entwined with a crescent moon—fluttering in the sea breeze. This is a place where history and magic intertwine, and as you step ashore, you sense that the city holds both answers and dangers in equal measure.
 
 ---
 
