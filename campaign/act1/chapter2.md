@@ -3,7 +3,7 @@
 ### Securing Passage
 
 > **Read Aloud:**
-> The salty breeze carries the cries of gulls and the rhythmic creak of wooden hulls. The docks are alive with activity—sailors hoisting crates, merchants shouting deals, and the constant hum of the sea. Among the many vessels moored here, each tells its own story. A sturdy green-painted ship named *The Emerald Gale* bobs steadily, its proud banner fluttering in the wind. Nearby, a heavily-laden merchant ship looms large, its crew working with practiced efficiency under the sharp gaze of its first mate, his gaze flicks toward you, and for a moment, he seems to weigh your worth before returning to his duties. At the far edge of the docks, a smaller schooner rests in shadow, its aged wood and faint glowing runes hinting at secrets best left unspoken. The choices before you seem as varied as the sea itself.&#x20;
+> The salty breeze carries the cries of gulls and the rhythmic creak of wooden hulls. The docks are alive with activity—sailors hoisting crates, merchants shouting deals, and the constant hum of the sea. Among the many vessels moored here, each tells its own story. A sturdy green-painted ship named *The Emerald Gale* bobs steadily, its proud banner fluttering in the wind. Nearby, a heavily-laden merchant ship looms large, its crew working with practiced efficiency under the sharp gaze of its first mate, his gaze flicks toward you, and for a moment, he seems to weigh your worth before returning to his duties. At the far edge of the docks, a smaller schooner rests in shadow, its aged wood and faint glowing runes hinting at secrets best left unspoken. The choices before you seem as varied as the sea itself.
 
 #### Option 1: Charter a Ship
 
