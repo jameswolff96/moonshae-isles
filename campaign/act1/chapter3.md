@@ -18,9 +18,7 @@ This chapter begins as the party arrives in **Caer Callidyrr**, the bustling cap
 #### **Dock Quarter**
 
 > **Read Aloud:**
-> The docks of Caer Callidyrr stretch across the shimmering coastline, a hub of constant activity and vital commerce for the Moonshae Isles. Tall ships with colorful sails are moored alongside sleek fishing vessels, while merchants hawk their wares from temporary stalls. Sailors shout orders, the salty air is heavy with the scent of fresh fish and tar, and the occasional haunting melody of a sea shanty drifts on the wind.
->
-> Above the din, banners emblazoned with the sigil of the Kendrick family—an anchor entwined with a crescent moon—flap in the breeze. The presence of armed guards patrolling the area indicates a city trying to maintain order in the face of growing tensions.
+> The docks of Caer Callidyrr stretch across the shimmering coastline, a hub of constant activity and vital commerce for the Moonshae Isles. Tall ships with colorful sails are moored alongside sleek fishing vessels, while merchants hawk their wares from temporary stalls. Sailors shout orders, the salty air is heavy with the scent of fresh fish and tar, and the occasional haunting melody of a sea shanty drifts on the wind. Above the din, more banners emblazoned with the sigil of the Kendrick family dominate the tops of the buildings. The presence of armed guards patrolling the area seems to have everyone on edge, indicating a city trying to maintain order in the face of growing tensions.
 
 ##### **Key Locations in the Docks**
 
