@@ -77,17 +77,25 @@ Once the party secures transportation, their voyage begins across the Sword Sea,
 
 When sailing to the Moonshae Isles, once per day roll a d10 to determine an event that occurs:
 
-| d10 | Event                                                                                                                                                                                                                             |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Storm at Sea:** Players must work together to secure the ship using Strength (Athletics, DC 13), Dexterity (Acrobatics, DC 14), and Wisdom (Survival, DC 12) checks. Failure damages the ship.                                  |
+| d10 | Event |
+| --- | ----- |
+| 1   | **Storm at Sea:** Players must work together to secure the ship using Strength (Athletics, DC 13), Dexterity (Acrobatics, DC 14), and Wisdom (Survival, DC 12) checks. Failure damages the ship. |
 | 2   | **Fey Intrusion:** A mysterious fog rolls in, and illusions confuse the crew. Wisdom (Insight, DC 14) or Intelligence (Arcana, DC 15) checks reveal reality. Failure risks heading off course adding an extra day to the journey. |
-| 3   | **Sea Monster Encounter:** A kraken or large sea serpent attacks, requiring teamwork to fend it off with the ship’s ballistae.                                                                                                    |
-| 4   | **Ghostly Apparition:** A spectral ship appears, shadowing the schooner. It vanishes if ignored but attacks if challenged. A Wisdom (Insight, DC 14) check reveals its motives.                                                   |
-| 5   | **Mysterious Island:** The ship drifts toward a previously uncharted island. Wisdom (Survival, DC 12) prevents the ship from running aground. Intelligence (Investigation, DC 13) reveals abandoned supplies on the island.       |
-| 6   | **Fey Blessing:** The party encounters a peaceful fey who offers cryptic guidance or temporary boons, such as faster winds or smooth waters (See Table Boons At Sea).                                                             |
-| 7   | **Calm Seas:** The day passes uneventfully with smooth waters and a steady breeze. No skill checks or additional encounters occur.                                                                                                |
-| 8   | **Unsettling Quiet:** The sea is eerily calm, and no other ships are seen. Players may make a Wisdom (Perception, DC 13) check to notice strange whispers on the wind, hinting at an unseen fey presence.                         |
-| 9   | **Passing Ship:** A merchant or fishing vessel crosses paths with the party. Players may attempt to interact with the crew using Charisma (Persuasion, DC 12) or Charisma (Deception, DC 14) to gain information or supplies.     |
-| 10  | **Bountiful Catch:** The ship passes through waters teeming with fish. Players may use Wisdom (Survival, DC 12) to catch extra food, reducing supply costs for the journey.                                                       |
+| 3   | **Sea Monster Encounter:** A kraken or large sea serpent attacks, requiring teamwork to fend it off with the ship’s ballistae. |
+| 4   | **Ghostly Apparition:** A spectral ship appears, shadowing the schooner. It vanishes if ignored but attacks if challenged. A Wisdom (Insight, DC 14) check reveals its motives. |
+| 5   | **Mysterious Island:** The ship drifts toward a previously uncharted island. Wisdom (Survival, DC 12) prevents the ship from running aground. Intelligence (Investigation, DC 13) reveals abandoned supplies on the island. |
+| 6   | **Fey Blessing:** The party encounters a peaceful fey who offers cryptic guidance or temporary boons, such as faster winds or smooth waters (See Table: *Boons At Sea*). |
+| 7   | **Calm Seas:** The day passes uneventfully with smooth waters and a steady breeze. No skill checks or additional encounters occur. |
+| 8   | **Unsettling Quiet:** The sea is eerily calm, and no other ships are seen. Players may make a Wisdom (Perception, DC 13) check to notice strange whispers on the wind, hinting at an unseen fey presence. |
+| 9   | **Passing Ship:** A merchant or fishing vessel crosses paths with the party. Players may attempt to interact with the crew using Charisma (Persuasion, DC 12) or Charisma (Deception, DC 14) to gain information or supplies. |
+| 10  | **Bountiful Catch:** The ship passes through waters teeming with fish. Players may use Wisdom (Survival, DC 12) to catch extra food, reducing supply costs for the journey. |
+
+| d4 | Boon |
+| -- | ---- |
+| 1  | Favorable Winds: The ship's speed increases, reducing the journey by 1 day. |
+| 2  | Calm Waters: The ship gains advantage on navigation checks for the next 24 hours. |
+| 3  | Magical Gift: A small magical item (e.g., a driftglobe or a potion of water breathing) appears on the deck. |
+| 4  | Protective Blessing: The ship gains temporary immunity to storm damage for the next 48 hours. |
+
 
 This chapter ends as the players spot the verdant shores of the Moonshae Isles, where the next chapter of their adventure begins.
