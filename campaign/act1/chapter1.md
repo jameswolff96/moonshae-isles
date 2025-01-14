@@ -20,22 +20,6 @@ The letter, sealed with a faintly glowing glyph in the shape of an angular black
 
 Beneath the message, an intricate sketch of an angular black obelisk is drawn, covered in runes that seem to shimmer faintly in the light. Alongside the sketch is a series of glyphs and symbols that appear to be part of a cipher.
 
-
-
-Marin Hollows
-
-
-
-Role: Innkeeper of The Seafarer’s Rest.
-
-
-
-Personality: Friendly and inquisitive, with a knack for remembering names and faces.
-
-
-
-Hooks: Marin can provide the party with information about local shipwrights and captains. If asked, he will hint at rumors surrounding a "haunted" schooner for sale at the docks. He will also direct the party to the city of Caer Callidyrr as that is likely where their friend ended up first providing an old  map he has from his time in the Navy.
-
 ### Key Elements for the DM
 
 - **The Letter:** Players can inspect the letter and attempt to decipher the glyphs using Intelligence (Arcana, DC 12) or Intelligence (Investigation, DC 14) checks. Success reveals additional hints pointing to fey portals in the Moonshae Isles. Provide a physical handout with the sketch and glyphs to immerse the players.
@@ -48,5 +32,9 @@ Hooks: Marin can provide the party with information about local shipwrights and 
 
 ### Possible Outcomes
 
-- If the players decode the glyphs, they will find additional hints pointing to the fey portals in the Moonshae Isles.
-- If the players decide to leave immediately, they can charter a ship from Neverwinter's docks to begin their journey.
+### Prologue NPCs
+
+#### Marin Hollows
+- **Role:** Innkeeper of The Seafarer’s Rest.
+- **Personality:** Friendly and inquisitive, with a knack for remembering names and faces.
+- **Hooks:** Marin can provide the party with information about local shipwrights and captains. If asked, he will hint at rumors surrounding a "haunted" schooner for sale at the docks. He will also direct the party to the city of Caer Callidyrr as that is likely where their friend ended up first providing an old  map he has from his time in the Navy.
