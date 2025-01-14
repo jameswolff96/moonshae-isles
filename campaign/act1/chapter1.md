@@ -24,9 +24,9 @@ Beneath the message, an intricate sketch of an angular black obelisk is drawn, c
 
 - **The Letter:** Players can inspect the letter and attempt to decipher the glyphs using Intelligence (Arcana, DC 12) or Intelligence (Investigation, DC 14) checks. Success reveals additional hints pointing to fey portals in the Moonshae Isles. Provide a physical handout with the sketch and glyphs to immerse the players.
 
-- **The Map:** Provide the players with the large map, it will be their guidee throughout the entire campaign
-
 - **The Innkeeper:** Marin can provide minor details about Eryndor's demeanor when he left the letter, noting his urgency and a slight air of excitement.
+
+- **The Map:** If allowed to eavesdrop or if filled in by the players Marin can also provide the players with a large map of the moonshae isles, this map will serve as their guide throughout the entire campaign.
 
 - **Initial Player Decisions:** Encourage roleplay as the party discusses their options and decides how to proceed.
 
