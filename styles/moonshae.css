@@ -114,21 +114,21 @@ footer {
     font-style: italic;
 }
 
-.features-section {
+.section {
     display: flex;
     align-items: flex-start;
     gap: 20px;
 }
 
-.features-text {
+.section-text {
     flex: 2;
 }
 
-.features-image {
+.section-image {
     flex: 1;
 }
 
-.features-image img {
+.section-image img {
     width: 100%;
     height: auto;
     border: 1px solid #4aa393;
