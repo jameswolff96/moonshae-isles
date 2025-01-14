@@ -30,9 +30,11 @@ Beneath the message, an intricate sketch of an angular black obelisk is drawn, c
 
 - **Initial Player Decisions:** Encourage roleplay as the party discusses their options and decides how to proceed.
 
-### Possible Outcomes
+### Wrapping up Chapter 1
 
-### Prologue NPCs
+Regardless of how the players procede they will likely end up in search of passage to the Moonshae Isles at this point whether it is by Marin or another NPC the players should be pointed to the docks.
+
+### Chapter 1 NPCs
 
 #### Marin Hollows
 - **Role:** Innkeeper of The Seafarer’s Rest.
