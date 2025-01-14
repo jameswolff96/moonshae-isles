@@ -144,6 +144,7 @@ footer {
 
 .runes {
     font-family: 'Germanic-Runes';
+    text-transform: lowercase;
     color: #1e3d3a;
 }
 
