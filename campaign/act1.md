@@ -1,5 +1,10 @@
 # Act 1: The Gathering Storm
 
+## Overview
+The journey begins with the party reuniting in Neverwinter, only to find their companion Eryndor missing and a cryptic letter in his place. This letter leads the adventurers on a perilous voyage across the Sword Sea to the fey-touched Moonshae Isles. Along the way, they must secure transportation, confront the dangers of the sea, and navigate the mysteries surrounding a cursed ship, The Wailing Mariner.
+
+Upon arriving in Caer Callidyrr, the party delves into the city's political intrigues, uncovers clues about Eryndor’s whereabouts, and begins to understand the artifact he sought. Following his trail, they journey to the mystical Silver Glade and the ruins of a forgotten temple, where ancient puzzles, fey creatures, and hostile forces challenge their progress. The act culminates with the discovery of Eryndor’s fate and the artifact’s dangerous potential, setting the stage for deeper mysteries and greater threats in the acts ahead.
+
 ## Chapter 1: A Missing Friend
 
 ### Opening Scene
@@ -308,3 +313,8 @@ This chapter begins as the party arrives in **Caer Callidyrr**, the bustling cap
 
 ---
 
+## Chapter 4: Into the Silver Glade
+
+## Chapter 5: The forgotten temple
+
+## Chapter 6: The Final Encounter
