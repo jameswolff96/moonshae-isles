@@ -13,7 +13,9 @@ This chapter begins as the party arrives in **Caer Callidyrr**, the bustling cap
 
 ---
 
-#### **Key Locations**
+### **Caer Callidyrrs Quarters**
+
+The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, Wolf, Low, Forest, and Castle. Each section of the city is filled with life and NPCs for the players to interact with, not all of these NPCs advance the main story, but each has something to add to the story of the Isle's.
 
 #### **Dock Quarter**
 
