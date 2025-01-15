@@ -1,9 +1,9 @@
 ## Chapter 2: Passage to the Isles
 
-### Securing Passage
+## Section 1: Securing Passage
 
 > **Read Aloud:**
-> The salty breeze carries the cries of gulls and the rhythmic creak of wooden hulls. The docks are alive with activity—sailors hoisting crates, merchants shouting deals, and the constant hum of the sea. Among the many vessels moored here, each tells its own story. A sturdy green-painted ship named *The Emerald Gale* bobs steadily, its proud banner fluttering in the wind. Nearby, a heavily-laden merchant ship looms large, its crew working with practiced efficiency under the sharp gaze of its first mate, his gaze flicks toward you, and for a moment, he seems to weigh your worth before returning to his duties. At the far edge of the docks, a smaller schooner rests in shadow, its aged wood and faint glowing runes hinting at secrets best left unspoken. The choices before you seem as varied as the sea itself.
+> The salty breeze carries the cries of gulls and the rhythmic creak of wooden hulls. The docks are alive with activity—sailors hoisting crates, merchants shouting deals, and the constant hum of the sea. Among the many vessels moored here, each tells its own story. A sturdy green-painted ship named *The Emerald Gale* bobs steadily, its proud banner fluttering in the wind. Nearby, a heavily-laden merchant ship looms large, its crew working with practiced efficiency under the sharp gaze of its first mate, his gaze flicks toward you, and for a moment, he seems to weigh your worth before returning to his duties. At the far edge of the docks, various schooners fill out the docks including a smaller schooner resting in shadow, its aged wood and faint glowing runes hinting at secrets best left unspoken. The choices before you seem as varied as the sea itself.
 
 #### Option 1: Charter a Ship
 
@@ -72,5 +72,5 @@ When sailing to the Moonshae Isles, once per day roll a d10 to determine an even
 | 3  | Magical Gift: A small magical item (e.g., a driftglobe or a potion of water breathing) appears on the deck. |
 | 4  | Protective Blessing: The ship gains temporary immunity to storm damage for the next 48 hours. |
 
-
-This chapter ends as the players spot the verdant shores of the Moonshae Isles, where the next chapter of their adventure begins.
+### Wrapping up Chapter 2
+This chapter ends as the players spot the verdant shores of the Moonshae Isles, sailing into port in Caer Callidyr.
