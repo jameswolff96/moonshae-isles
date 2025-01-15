@@ -7,13 +7,13 @@
 
 #### Option 1: Charter a Ship
 
-- **The Emerald Gale**: Captained by the experienced and dependable **Daenor "Seafoam" Lothar**, this sturdy vessel is well-suited to the open seas and the fey-touched storms that surround the Isles.
-- **Challenges:** Negotiating a fair price (Charisma [Persuasion] DC 13), dealing with rival captains trying to outbid them (Charisma [Deception] DC 15), or handling dockside disputes (Strength [Athletics] DC 12).
+- **The Emerald Gale**: Captained by the experienced and dependable **Daenor "Seafoam" Lothar** (See *Appendix C*), this sturdy vessel is well-suited to the open seas and the fey-touched storms that surround the Isles. (See *Appendix D*)
+  - **Challenges:** Negotiating a fair price (Charisma [Persuasion] DC 13), dealing with rival captains trying to outbid them (Charisma [Deception] DC 15), or handling dockside disputes (Strength [Athletics] DC 12).
 
 #### Option 2: Passage on a Merchant Ship
 
-- **The Salted Gull**: A merchant vessel under the command of **First Mate Alric Sands**, who demands the party guard the cargo during the journey.
-- **Challenges:** Convincing the merchant guild to allow them aboard (Charisma [Persuasion] DC 14), dealing with potential saboteurs (Wisdom [Insight] DC 13) or theft onboard (Dexterity [Sleight of Hand] DC 15 to catch a thief).
+- **The Salted Gull**: A merchant vessel under the command of **First Mate Alric Sands** (See *Appendix C*), who demands the party guard the cargo during the journey. (See *Appendix D*)
+  - **Challenges:** Convincing the merchant guild to allow them aboard (Charisma [Persuasion] DC 14), dealing with potential saboteurs (Wisdom [Insight] DC 13) or theft onboard (Dexterity [Sleight of Hand] DC 15 to catch a thief).
 
 #### Option 3: Acquire Their Own Ship
 
