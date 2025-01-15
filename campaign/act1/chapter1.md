@@ -7,9 +7,10 @@
 
 The adventure begins at **The Seafarer's Rest**, a cozy yet bustling inn in **Neverwinter**, nestled along the busy docks of the Sword Coast. The inn's warm light spills out onto the cobbled streets as the evening crowd gathers, and the aroma of spiced fish stew fills the air. The party, as previously agreed at the conclusion of their last adventure, has come together on this specific day to celebrate their recent successes and discuss future plans.
 
-However, as the hours pass, the absence of one member becomes apparent: **Eryndor Valin**, the enigmatic wizard and longtime companion, has not arrived. Concerned whispers fill the table as the party wonders what could have delayed him. Just as the unease begins to settle, the innkeeper, a wiry half-elf named **Marin Hollows**, approaches with a folded letter in hand.
+However, as the hours pass, the absence of one member becomes apparent: **Eryndor Valin**, the enigmatic wizard and longtime companion, has not arrived. Concerned whispers fill the table as the party wonders what could have delayed him. Just as the unease begins to settle, the innkeeper, a wiry half-elf named **Marin Hollows** (See *Appendix C*), approaches with a folded letter in hand, speaking curiously.
 
-"Excuse me," Marin says, his voice tinged with curiosity, "it's been about a week, but I believe this was left for you. The gentleman said you'd understand."
+> **Read Aloud:** 
+> "Excuse me, it's been about a week, but I believe this was left for you all. The gentleman said you'd understand."
 
 The letter, sealed with a faintly glowing glyph in the shape of an angular black obelisk, is unmistakably from Eryndor. Inside, the message reads:
 
