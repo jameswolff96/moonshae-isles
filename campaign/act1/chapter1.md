@@ -25,19 +25,8 @@ Beneath the message, an intricate sketch of an angular black obelisk is drawn, c
 
 - **The Letter:** Players can inspect the letter and attempt to decipher the glyphs using Intelligence (Arcana, DC 12) or Intelligence (Investigation, DC 14) checks. Success reveals additional hints pointing to fey portals in the Moonshae Isles. Provide a physical handout with the sketch and glyphs to immerse the players.
 
-- **The Innkeeper:** Marin can provide minor details about Eryndor's demeanor when he left the letter, noting his urgency and a slight air of excitement.
-
 - **The Map:** If allowed to eavesdrop or if filled in by the players Marin can also provide the players with a large map of the moonshae isles, this map will serve as their guide throughout the entire campaign.
 
-- **Initial Player Decisions:** Encourage roleplay as the party discusses their options and decides how to proceed.
-
-### Wrapping up Chapter 1
+## Wrapping up Chapter 1
 
 Regardless of how the players procede they will likely end up in search of passage to the Moonshae Isles at this point whether it is by Marin or another NPC the players should be pointed to the docks.
-
-### Chapter 1 NPCs
-
-#### Marin Hollows
-- **Role:** Innkeeper of The Seafarer’s Rest.
-- **Personality:** Friendly and inquisitive, with a knack for remembering names and faces.
-- **Hooks:** Marin can provide the party with information about local shipwrights and captains. If asked, he will hint at rumors surrounding a "haunted" schooner for sale at the docks. He will also direct the party to the city of Caer Callidyrr as that is likely where their friend ended up first providing an old  map he has from his time in the Navy.
