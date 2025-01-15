@@ -1,6 +1,6 @@
-## Chapter 1: A Missing Friend
+# Chapter 1: A Missing Friend
 
-### Opening Scene
+## Opening Scene
 
 > **Read Aloud:**
 > The Seafarer's Rest buzzes with the energy of a busy evening. Lanterns sway from iron brackets, casting warm golden light over patrons hunched over steaming bowls of stew. The salty tang of the sea mingles with the rich aroma of spiced fish. As you gather around the table, the absence of one chair feels heavier with every passing moment. The lively chatter of the inn fades into the background as you exchange glances, wondering where Eryndor might be.
@@ -21,7 +21,7 @@ The letter, sealed with a faintly glowing glyph in the shape of an angular black
 
 Beneath the message, an intricate sketch of an angular black obelisk is drawn, covered in runes that seem to shimmer faintly in the light. Alongside the sketch is a series of glyphs and symbols that appear to be part of a cipher.
 
-### Key Elements for the DM
+## Key Elements
 
 - **The Letter:** Players can inspect the letter and attempt to decipher the glyphs using Intelligence (Arcana, DC 12) or Intelligence (Investigation, DC 14) checks. Success reveals additional hints pointing to fey portals in the Moonshae Isles. Provide a physical handout with the sketch and glyphs to immerse the players.
 
