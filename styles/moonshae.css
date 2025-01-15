@@ -114,6 +114,10 @@ footer {
     font-style: italic;
 }
 
+.right {
+    text-align: right;
+}
+
 .section {
     display: flex;
     align-items: flex-start;
