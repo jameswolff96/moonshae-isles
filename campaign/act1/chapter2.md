@@ -17,50 +17,25 @@
 
 #### Option 3: Acquire Their Own Ship
 
-> **Read Aloud:**
-> Near the edge of the dockyard, past rows of bustling ships, lies a smaller schooner docked in shadow. Its hull is worn but seaworthy, and faint, glowing runes are etched along the wood. These runes match those found in Eryndor's note, sparking a sense of foreboding and intrigue. Nearby, a wiry human woman leans against a crate, her gaze darting nervously between the ship and the bustling crowd, as though she’s trying to avoid drawing attention.
+- **A Caer Schooner**: Fresh from the shipyard in Caer Calidyrr this schooner has yet to be named. (See *Appendix D*)
+  - **Price:** The owner of this ship is looking to make a sell at full price (30,000 GP), but might be willing to settle for a little less if the players are persuasive enough. 
+  - **Crew Requirements:** This ship will require a total of 8 crew including the players to operate at full efficiency, the crew that come in on the ship are willing to stay with the players, but require their wages for the voyage up front (10 GP/day/crew member)
+  - **Challenges:** The ships owner is a shrewd man, but a Charisma [Persuasion] DC 18 might convince him to bring down the price 10%
 
-- **The Wailing Mariner:**
+- **The Drawn and Quartered**: A former pirate schooner recently repossesed by the Neverwinter Guard.(See *Appendix D*)
+  - **Price:** This ship will be offered at auction, the highest opposing bid should be no more than 18,000 GP.
+  - **Crew Requirements:** This ship will require a total of 6 crew including the players to operate at full efficiency. If needed dock hands are readily available, but require their wages for the voyage up front (10 GP/day/crew member)
+  - **Challenges:** Convincing the guards to let the party join the auction will be no easy task, they must convince them of their good hearts. A Charisma [Persuasion] DC 16 or a Charisma [Deceiption] DC 20. If the guards witness the players performing a good act give them advantage on these checks, disadvantage if they are seen preforming an evil act
 
-  - **Description:** A small schooner with an eerie, aged appearance. Its dark wood hull is covered in faint, glowing runes, and its sails appear intact but unnaturally tattered.
-  - **Price:** Initially asking for half price the shipwright, Reeda Wainwright, is so desperate to rid herself of the vessel she offers it to the player for free. She claims it has brought her nothing but bad luck and insists that as its new owners the players "accept all responsibility" for anything that happens to them.
-  - **History:** The ship is cursed, its previous owners having vanished or died under mysterious circumstances.
+- **The Wailing Mariner**: A small schooner with an eerie, aged appearance. Its dark wood hull is covered in faint, glowing runes, and its sails appear intact but unnaturally tattered. (See *Appendix D*)
+  - **Price:** Initially asking for 12,000 GP the shipwright, Reeda Wainwright, is so desperate to rid herself of the vessel she offers it to the player for free if pressed. She claims it has brought her nothing but bad luck and insists that as its new owners the players "accept all responsibility" for anything that happens to them.
+  - **Crew Requirements:** This ship will require a total of 5 crew including the players to operate at full efficiency. The only dock hand willing to join the players on this ship is **Thalen Voss** doing so with only the promise of payment (*See Appendix C*)
+  - **Challenges:** The challenges with this ship will only reveal themselves once the party is at sea.
 
-- **Cursed Ship Mechanics:**
+### Wrapping up Section 1
+Once the players have obtained a method of travel to the Moonshae Isle's move on to Section 2.
 
-  - **Mysterious Events:** At sea, the ship begins to creak and groan as if alive. Strange whispers echo below deck, and crew members (including the party) may experience nightmares.
-  - **Skill Challenges:** The curse occasionally manifests as sabotaged rigging (Dexterity [Acrobatics] DC 13), sudden malfunctions (Intelligence [Investigation] DC 15), or eerie illusions (Wisdom [Perception] DC 14). Players must succeed on Wisdom (Insight), Intelligence (Investigation), or Dexterity (Sleight of Hand) checks to resolve these issues.
-  - **Fey Connection:** The curse ties the ship to the Feywild, and the party may encounter fey creatures or be pulled into the Feywild unexpectedly during storms or certain magical events.
-
-- **Lifting the Curse:** To free the ship from its curse, the party must uncover its history and perform a ritual at a sacred site within the Moonshae Isles.
-
-### Dockside NPCs
-
-#### **Daenor "Seafoam" Lothar**
-
-- **Role:** Captain of The Emerald Gale.
-- **Personality:** Gruff but reliable, with a love for storytelling about the sea.
-- **Hooks:** Daenor is willing to negotiate his price but insists on the party proving themselves trustworthy, possibly through a small task like delivering a parcel to another captain.
-
-#### **Alric Sands**
-
-- **Role:** First Mate of The Salted Gull.
-- **Personality:** Stern and pragmatic, focused on protecting his cargo.
-- **Hooks:** Alric requires the party to take an oath of service during the voyage. He will be suspicious if the players hesitate or inquire too much about the cargo.
-
-#### **Reeda Wainwright**
-
-- **Role:** Local shipwright and seller of The Wailing Mariner.
-- **Personality:** Nervous and evasive, constantly looking over her shoulder.
-- **Hooks:** Reeda will emphasize the ship’s low price but avoid answering questions about its history. Players with a Wisdom (Insight, DC 12) check can detect her unease, and with a Charisma (Intimidation, DC 14) or Charisma (Persuasion, DC 15) check, she may reveal details about the ship’s curse if pressed.
-
-#### **Thalen "Lucky" Voss**
-
-- **Role:** A charismatic dockworker who offers to join the party as crew.
-- **Personality:** Charming and optimistic, though his "luck" often gets others into trouble.
-- **Hooks:** Thalen’s luck is actually tied to a minor fey blessing, which occasionally backfires. His presence could lead to both fortuitous and disastrous events during the voyage.
-
-### Setting Sail
+## Section 2: Setting Sail
 
 > **Read Aloud:**
 > The Sword Sea stretches before you, its waves shimmering faintly as if touched by magic. Sailors whisper tales of sudden storms and ghostly lights that dance on the horizon. The air is thick with salt and mystery, and the creak of the ship’s hull reminds you that this journey will not be an easy one. As the coastline fades behind you, the vastness of the ocean brings both awe and unease.
