@@ -84,7 +84,7 @@ The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, 
 
 1. **The Gilded Grain Tavern:** A popular spot for merchants and farmers to relax, often filled with chatter about trade deals and local events.
       - **NPC:** Eddric Lorne, a retired adventurer turned grain merchant, who speaks of recent fey sightings near the Silver Glade.
-      - **The Farmer’s Market:** An open-air market bustling with vendors selling everything from fresh produce to rare herbs.
+2. **The Farmer’s Market:** An open-air market bustling with vendors selling everything from fresh produce to rare herbs.
 
 #### Encounters and Events:
 1. **Disruptive Fey:** Mischievous fey creatures (e.g., pixies) have been causing minor chaos in the market. The players can negotiate with them or drive them away.
@@ -97,11 +97,13 @@ The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, 
 #### Key Locations:
 
 1. **Moonlit Glade:** A small grove at the center of the quarter, rumored to be a meeting place for fey beings.
-      - **NPC:** Naiya Whisperwind, a dryad who offers cryptic advice about the artifact’s nature in exchange for help resolving disturbances in her glade.
+      - **NPC:** Naiya Whisperwind, a dryad who offers cryptic advice about the artifact’s nature in exchange for help resolving disturbances in her glade (See *Glade Intruders*).
 
 #### Encounters and Events:
 
-1. **Fey Disturbance:** Players must navigate a conflict between two fey factions, choosing sides or finding a peaceful resolution.
+1. **Major Fey Bargain:**
+      - **Event**: A powerful fey entity, such as a satyr lord or a dryad queen, appears in the Moonlit Glade. The fey offers vital information about Eryndor’s artifact but demands a significant price (e.g., a memory, a favor owed, or a magical item).
+2. **Glade Intruders:**
 
 ### Wolf Quarter
 
@@ -128,15 +130,24 @@ The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, 
 #### Encounters and Events
 
 1. **The Fey-Scarred Beggar**:
-
    - **Setup**: A beggar approaches the party, muttering about "shimmering lights" and "a wizard who spoke to the stars."
    - **Skill Challenge**: Persuasion (DC 13) to coax coherent information from them or Arcana (DC 15) to recognize their descriptions as Feywild phenomena.
    - **Outcome**: The beggar reveals that Eryndor was last seen heading to the **Silver Glade**, a forest just outside the city.
 
+2.  **The Lost Child**:
+      - **Setup**: A distraught parent approaches the party, pleading for help finding their missing child, who was lured away by fey creatures.
+      - **Encounter**: The players track the child into a shadowy alley, only to find an entrance to a small Feywild pocket realm.
+
+3. **Fey-Touched Gangs**:
+   - **Setup**: A street gang in the Low Quarter has started using fey artifacts to intimidate rivals. They may offer the players a fey artifact in exchange for assistance with their rivals.
+   - **Encounter**:
+      - If the players accept the artifact the gang will ask them to rough up rival gang who is headquartered a block south of the Low Market.
+      - If the players refuse the artifact they are attacked by the gang members around them.
+
 ### Forest Quarter
 
 > **Read Aloud:**
-> Lorem Ipsum
+> The Forest Quarter feels like stepping into another world. Towering trees with sprawling canopies shade cobblestone paths, their trunks wrapped with glowing moss that pulses faintly in rhythm with the wind. Wooden homes and shops blend seamlessly with the natural surroundings, their walls carved from living wood. The air is cool and carries the fresh scent of pine and damp earth, underscored by the faint melody of birdsong and rustling leaves. Locals speak in hushed tones here, as if unwilling to disturb the tranquil harmony of the quarter.
 
 #### Key Locations
 
@@ -146,7 +157,7 @@ The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, 
 
 #### Encounters and Events
 
-- **Ritual of the Balance**:
+1. **Ritual of the Balance**:
 
   - **Event**: The druids are preparing a ritual to restore balance to the land. They request the party’s aid in defending the grove from marauding shadow fey during the ceremony.
   - **Encounter**: Combat with 3-5 shadow fey, using the grove’s natural features (e.g., trees, vines) for dynamic terrain.
