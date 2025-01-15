@@ -1,21 +1,21 @@
-## Chapter 2: Passage to the Isles
+# Chapter 2: Passage to the Isles
 
 ## Section 1: Securing Passage
 
 > **Read Aloud:**
 > The salty breeze carries the cries of gulls and the rhythmic creak of wooden hulls. The docks are alive with activity—sailors hoisting crates, merchants shouting deals, and the constant hum of the sea. Among the many vessels moored here, each tells its own story. A sturdy green-painted ship named *The Emerald Gale* bobs steadily, its proud banner fluttering in the wind. Nearby, a heavily-laden merchant ship looms large, its crew working with practiced efficiency under the sharp gaze of its first mate, his gaze flicks toward you, and for a moment, he seems to weigh your worth before returning to his duties. At the far edge of the docks, various schooners fill out the docks including a smaller schooner resting in shadow, its aged wood and faint glowing runes hinting at secrets best left unspoken. The choices before you seem as varied as the sea itself.
 
-#### Option 1: Charter a Ship
+### Option 1: Charter a Ship
 
 - **The Emerald Gale**: Captained by the experienced and dependable **Daenor "Seafoam" Lothar** (See *Appendix C*), this sturdy vessel is well-suited to the open seas and the fey-touched storms that surround the Isles. (See *Appendix D*)
   - **Challenges:** Negotiating a fair price (Charisma [Persuasion] DC 13), dealing with rival captains trying to outbid them (Charisma [Deception] DC 15), or handling dockside disputes (Strength [Athletics] DC 12).
 
-#### Option 2: Passage on a Merchant Ship
+### Option 2: Passage on a Merchant Ship
 
 - **The Salted Gull**: A merchant vessel under the command of **First Mate Alric Sands** (See *Appendix C*), who demands the party guard the cargo during the journey. (See *Appendix D*)
   - **Challenges:** Convincing the merchant guild to allow them aboard (Charisma [Persuasion] DC 14), dealing with potential saboteurs (Wisdom [Insight] DC 13) or theft onboard (Dexterity [Sleight of Hand] DC 15 to catch a thief).
 
-#### Option 3: Acquire Their Own Ship
+### Option 3: Acquire Their Own Ship
 
 - **A Caer Schooner**: Fresh from the shipyard in Caer Calidyrr this schooner has yet to be named. (See *Appendix D*)
   - **Price:** The owner of this ship is looking to make a sell at full price (30,000 GP), but might be willing to settle for a little less if the players are persuasive enough. 
