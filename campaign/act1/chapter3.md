@@ -1,28 +1,39 @@
-## Chapter 3: Arrival in Caer Callidyrr
+# Chapter 3: Arrival in Caer Callidyrr
 
-#### Overview
+## Overview
 
 This chapter begins as the party arrives in **Caer Callidyrr**, the bustling capital of the Moonshae Isles. The city is a hub of trade, culture, and intrigue, sitting on the border between the natural world and the magical influence of the Feywild. The players will navigate political tensions, investigate clues about Eryndor’s whereabouts, and begin to uncover the deeper mysteries tied to the artifact he sought.
 
----
-
-### **Introduction**
+## Introduction
 
 > **Read Aloud:**
 > As your ship approaches the docks of Caer Callidyrr, the city sprawls before you, its white stone walls gleaming in the afternoon sun. The harbor buzzes with activity—fishermen unloading their catches, traders haggling over exotic goods, and dockworkers shouting orders to one another. Beyond the docks, the city rises in tiers, with narrow streets winding upward toward the castle that dominates the skyline. Its towers stand tall, banners emblazoned with the sigil of the Kendrick family—an anchor entwined with a crescent moon—fluttering in the sea breeze. This is a place where history and magic intertwine, and as you step ashore, you sense that the city holds both answers and dangers in equal measure.
 
----
+## Key Elements
 
-### **Caer Callidyrrs Quarters**
+1. **Political Intrigue**:
+
+   - Should the party ally with Lady Kendrick, they gain resources and protection but may be drawn into the city’s political struggles.
+   - Alternately, they can avoid the castle entirely, focusing instead on fey-related mysteries.
+
+2. **Trust in the Fey**:
+
+   - Encountering Fey allies or enemies requires the players to make careful decisions. Bargains with the Fey often have unintended consequences.
+
+3. **Resource Management**:
+
+   - Players may need to negotiate for supplies, magical items, or transportation as they prepare to leave the city for the next phase of their journey.
+
+## Caer Callidyrr's Quarters
 
 The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, Wolf, Low, Forest, and Castle. Each section of the city is filled with life and NPCs for the players to interact with, not all of these NPCs advance the main story, but each has something to add to the story of the Isle's.
 
-#### **Dock Quarter**
+### Dock Quarter
 
 > **Read Aloud:**
 > The docks of Caer Callidyrr stretch across the shimmering coastline, a hub of constant activity and vital commerce for the Moonshae Isles. Tall ships with colorful sails are moored alongside sleek fishing vessels, while merchants hawk their wares from temporary stalls. Sailors shout orders, the salty air is heavy with the scent of fresh fish and tar, and the occasional haunting melody of a sea shanty drifts on the wind. Above the din, more banners emblazoned with the sigil of the Kendrick family dominate the tops of the buildings. The presence of armed guards patrolling the area seems to have everyone on edge, indicating a city trying to maintain order in the face of growing tensions.
 
-##### **Key Locations in the Docks**
+#### Key Locations
 
 1. **The Harbormaster’s Office**:
 
@@ -47,7 +58,7 @@ The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, 
    - A maze of large wooden buildings where goods are stored before being transported inland.
    - **Encounter:** The party stumbles upon a group of smugglers unloading crates marked with glowing fey runes. If they intervene, the smugglers fight to escape but leave behind a crate containing a map to an ancient ruin.
 
-##### **Encounters and Events in the Docks**
+#### Encounters and Events
 
 1. **Suspicious Activity**:
 
@@ -64,42 +75,57 @@ The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, 
    - A cloaked figure watches the party from a distance. If approached, they reveal cryptic knowledge about the players’ journey, hinting at Eryndor’s involvement with the Feywild.
    - **Skill Challenge:** Insight (DC 13) to discern the figure’s intentions.
 
-#### **The Temple of the Earthmother**
+### Plains Quarter
 
-**Description**: This sacred grove is a tranquil haven amid the bustling city. Ancient oaks encircle a serene clearing where druids and priests of the Earthmother tend to the city’s spiritual needs. Soft light filters through the canopy, casting shifting patterns on the ground. Stone altars adorned with flowers, vines, and offerings of fruit stand at the center, emanating a faint, comforting warmth. Pilgrims and locals alike gather here to seek blessings, share tales, or simply find solace.
+### Garden Quarter
 
-##### **Key NPCs and Hooks**
+### Wolf Quarter
 
-- **Priestess Elenna Moondrift**:
+#### Encounters and Events
 
-  - **Role**: A kind-hearted half-elf with deep connections to the Feywild.
-  - **Hook**: Elenna recognizes the runes from Eryndor’s note and offers cryptic guidance about their fey origin. She requests the party’s help resolving a disturbance in the Silver Glade.
-  - **Skill Challenge**: Persuasion (DC 13) to gain her trust or Arcana (DC 15) to understand her references to Feywild lore.
+1. **Unseen Observers**:
+
+   - **Setup**: The party notices that they are being followed by shadowy figures. These could be agents of a local faction or Feywild spies.
+   - **Skill Challenge**: Stealth (DC 13) to avoid detection or Perception (DC 15) to track their pursuers.
+   - **Outcome**: The figures confront the party, either as potential allies with cryptic warnings or hostile opponents.
+
+### Low Quarter
+
+#### Encounters and Events
+
+1. **The Fey-Scarred Beggar**:
+
+   - **Setup**: A beggar approaches the party, muttering about "shimmering lights" and "a wizard who spoke to the stars."
+   - **Skill Challenge**: Persuasion (DC 13) to coax coherent information from them or Arcana (DC 15) to recognize their descriptions as Feywild phenomena.
+   - **Outcome**: The beggar reveals that Eryndor was last seen heading to the **Silver Glade**, a forest just outside the city.
+
+### Forest Quarter
+
+> **Read Aloud:**
+> Lorem Ipsum
+
+#### Key Locations
+
+1. **The Temple of the Earthmother**
+
+   - This sacred grove is a tranquil haven amid the bustling city. Ancient oaks encircle a serene clearing where druids and priests of the Earthmother tend to the city’s spiritual needs. Soft light filters through the canopy, casting shifting patterns on the ground. Stone altars adorned with flowers, vines, and offerings of fruit stand at the center, emanating a faint, comforting warmth. Pilgrims and locals alike gather here to seek blessings, share tales, or simply find solace.
+
+#### Encounters and Events
 
 - **Ritual of the Balance**:
 
-  - **Event**: The druids are preparing a ritual to restore balance to the land. They request the party’s aid in gathering rare herbs or defending the grove from marauding shadow fey during the ceremony.
+  - **Event**: The druids are preparing a ritual to restore balance to the land. They request the party’s aid in defending the grove from marauding shadow fey during the ceremony.
   - **Encounter**: Combat with 3-5 shadow fey, using the grove’s natural features (e.g., trees, vines) for dynamic terrain.
 
-#### **Caer Callidyrr Castle**
+### Castle Quarter
 
-**Description**: Perched atop a rocky hill, the castle commands a view of the entire city and the surrounding sea. Its white stone walls gleam in the sunlight, and tall banners bearing the Kendrick family sigil flutter in the wind. Guards in polished armor patrol the grounds, and the air hums with the tension of a realm on the brink of upheaval. Inside, the halls are adorned with rich tapestries depicting the history of the Isles, and the scent of incense mingles with the faint metallic tang of weaponry.
+#### Key Locations
 
-##### **Key NPCs and Hooks**
+1. **Caer Callidyrr Castle**
 
-- **Lady Bronwyn Kendrick**:
+   - Perched atop a rocky hill, the castle commands a view of the entire city and the surrounding sea. Its white stone walls gleam in the sunlight, and tall banners bearing the Kendrick family sigil flutter in the wind. Guards in polished armor patrol the grounds, and the air hums with the tension of a realm on the brink of upheaval. Inside, the halls are adorned with rich tapestries depicting the history of the Isles, and the scent of incense mingles with the faint metallic tang of weaponry.
 
-  - **Role**: The regent of Caer Callidyrr, a poised and pragmatic leader striving to maintain stability in uncertain times.
-  - **Hook**: Lady Bronwyn is willing to grant the party an audience if they prove themselves. She provides resources and information about Eryndor’s activities but requires the party to assist with a local issue, such as quelling raiders or investigating strange fey incursions near the city.
-  - **Skill Challenge**: Persuasion (DC 14) to gain her favor or History (DC 13) to demonstrate knowledge of Moonshae politics.
-
-- **Captain Roderic Steelhelm**:
-
-  - **Role**: The stoic commander of the castle guard.
-  - **Hook**: Roderic distrusts outsiders but can be convinced to share information about Eryndor’s movements in exchange for assistance fortifying the city’s defenses.
-  - **Skill Challenge**: Intimidation (DC 13) or Insight (DC 12) to navigate his stern exterior.
-
-##### **Encounters and Events in the Castle**
+#### **Encounters and Events**
 
 1. **Intrigue Among the Nobles**:
 
@@ -115,44 +141,3 @@ The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, 
 
    - **Event**: The party uncovers a secret passage leading to an ancient archive beneath the castle. The books and artifacts within may hold vital information about Eryndor’s quest.
    - **Skill Challenge**: Investigation (DC 15) to find the passage or Arcana (DC 14) to decipher the writings inside.
-
----
-
-#### **Encounters in Caer Callidyrr**
-
-1. **The Fey-Scarred Beggar**:
-
-   - **Setup**: A beggar approaches the party, muttering about "shimmering lights" and "a wizard who spoke to the stars."
-   - **Skill Challenge**: Persuasion (DC 13) to coax coherent information from them or Arcana (DC 15) to recognize their descriptions as Feywild phenomena.
-   - **Outcome**: The beggar reveals that Eryndor was last seen heading to the **Silver Glade**, a forest just outside the city.
-
-2. **Dockside Smugglers**:
-
-   - **Setup**: A group of smugglers operating in the harbor may have information about Eryndor, but they demand payment or favors in exchange.
-   - **Skill Challenge**: Deception (DC 14) or Intimidation (DC 15) to secure their cooperation.
-   - **Outcome**: The smugglers mention that Eryndor hired a guide to explore ruins tied to an ancient Fey artifact.
-
-3. **Unseen Observers**:
-
-   - **Setup**: The party notices that they are being followed by shadowy figures. These could be agents of a local faction or Feywild spies.
-   - **Skill Challenge**: Stealth (DC 13) to avoid detection or Perception (DC 15) to track their pursuers.
-   - **Outcome**: The figures confront the party, either as potential allies with cryptic warnings or hostile opponents.
-
----
-
-#### **Major Decision Points**
-
-1. **Political Intrigue**:
-
-   - Should the party ally with Lady Kendrick, they gain resources and protection but may be drawn into the city’s political struggles.
-   - Alternately, they can avoid the castle entirely, focusing instead on fey-related mysteries.
-
-2. **Trust in the Fey**:
-
-   - Encountering Fey allies or enemies requires the players to make careful decisions. Bargains with the Fey often have unintended consequences.
-
-3. **Resource Management**:
-
-   - Players may need to negotiate for supplies, magical items, or transportation as they prepare to leave the city for the next phase of their journey.
-
----
