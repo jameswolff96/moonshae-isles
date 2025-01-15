@@ -77,13 +77,47 @@ The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, 
 
 ### Plains Quarter
 
+> **Read Aloud:**
+> The Plains Quarter is a lively district filled with bustling markets and trade depots. Farmers and traders from across the isles bring their goods here, creating a vibrant mix of sights, sounds, and scents. Livestock pens line the streets, and the air carries the earthy aroma of freshly harvested crops.
+
+#### Key Locations:
+
+1. **The Gilded Grain Tavern:** A popular spot for merchants and farmers to relax, often filled with chatter about trade deals and local events.
+      - **NPC:** Eddric Lorne, a retired adventurer turned grain merchant, who speaks of recent fey sightings near the Silver Glade.
+      - **The Farmer’s Market:** An open-air market bustling with vendors selling everything from fresh produce to rare herbs.
+
+#### Encounters and Events:
+1. **Disruptive Fey:** Mischievous fey creatures (e.g., pixies) have been causing minor chaos in the market. The players can negotiate with them or drive them away.
+
 ### Garden Quarter
+
+> **Read Aloud:**
+> This quarter is a peaceful haven of winding paths, blooming flowers, and serene fountains. Known as the "heart of the city," it exudes a quiet magic, with an air of the Feywild that seems to linger in the air.
+
+#### Key Locations:
+
+1. **Moonlit Glade:** A small grove at the center of the quarter, rumored to be a meeting place for fey beings.
+      - **NPC:** Naiya Whisperwind, a dryad who offers cryptic advice about the artifact’s nature in exchange for help resolving disturbances in her glade.
+
+#### Encounters and Events:
+
+1. **Fey Disturbance:** Players must navigate a conflict between two fey factions, choosing sides or finding a peaceful resolution.
 
 ### Wolf Quarter
 
-#### Encounters and Events
+> **Read Aloud:**
+> The Wolf Quarter is a rugged district on the city’s outskirts, home to hunters, trackers, and those who prefer solitude. The streets are lined with timber buildings, and pelts hang from storefronts as symbols of local trade.
 
-1. **Unseen Observers**:
+#### Key Locations:
+
+1. **The Huntsman’s Lodge:** A gathering spot for hunters to exchange stories and plan expeditions.
+      - **NPC:** Rurik Ironfang, a grizzled dwarf who saw Eryndor heading into the Silver Glade.
+2. **Leather and Steel:** A shop selling hunting gear and traps.
+
+#### Encounters and Events:
+1. **Beast Attack:** A wild animal, driven mad by fey magic, bursts into the district, threatening civilians.
+
+2. **Unseen Observers**:
 
    - **Setup**: The party notices that they are being followed by shadowy figures. These could be agents of a local faction or Feywild spies.
    - **Skill Challenge**: Stealth (DC 13) to avoid detection or Perception (DC 15) to track their pursuers.
