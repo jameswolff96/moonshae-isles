@@ -16,7 +16,7 @@ This chapter begins as the party arrives in **Caer Callidyrr**, the bustling cap
    - Should the party ally with Lady Kendrick, they gain resources and protection but may be drawn into the city’s political struggles.
    - Alternately, they can avoid the castle entirely, focusing instead on fey-related mysteries.
 
-2. **Trust in the Fey**:
+2. **Dangerous Fey**:
 
    - Encountering Fey allies or enemies requires the players to make careful decisions. Bargains with the Fey often have unintended consequences.
 
@@ -127,6 +127,9 @@ The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, 
 
 ### Low Quarter
 
+> **Read Aloud:**
+> The Low Quarter hums with a restless energy, its narrow, winding streets packed with rickety buildings that lean against one another like old friends. Vendors shout over the clamor of a bustling crowd, peddling everything from tarnished trinkets to steaming bowls of spiced stew. The air is heavy with the mingling scents of smoke, sweat, and the faint tang of salt from the harbor. Children dart between legs, their laughter a sharp contrast to the wary glances exchanged by shadowed figures lurking in doorways. This is a place where fortunes are made, deals are struck, and secrets are traded in hushed tones or shouted from street corners.
+
 #### Encounters and Events
 
 1. **The Fey-Scarred Beggar**:
@@ -164,11 +167,26 @@ The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, 
 
 ### Castle Quarter
 
+> **Read Aloud:**
+> Perched atop a rocky hill, the castle commands a view of the entire city and the surrounding sea. Its white stone walls gleam in the sunlight, and tall banners bearing the Kendrick family sigil flutter in the wind. Guards in polished armor patrol the grounds, and the air hums with the tension of a realm on the brink of upheaval. Inside, the halls are adorned with rich tapestries depicting the history of the Isles, and the scent of incense mingles with the faint metallic tang of weaponry.
+
 #### Key Locations
 
-1. **Caer Callidyrr Castle**
+1. **The Grand Hall of Caer Callidyrr Castle:** The heart of the castle, this grand hall is a cavernous chamber adorned with tapestries depicting the history of the Moonshae Isles. A long wooden table dominates the room, its surface scarred by years of feasts and war councils. Windows of stained glass filter sunlight into radiant hues, casting the Kendrick family’s sigil in glowing patterns on the stone walls.
+      - **NPC:** Lady Bronwyn Kendrick, the ruler of Caer Callidyrr.
+      - **Role:** The poised and pragmatic regent of the Isles, focused on balancing fey alliances and local governance.
+      - **Hook:** Lady Bronwyn may offer the party resources for their journey to track down Eryndor if they prove their worth.
 
-   - Perched atop a rocky hill, the castle commands a view of the entire city and the surrounding sea. Its white stone walls gleam in the sunlight, and tall banners bearing the Kendrick family sigil flutter in the wind. Guards in polished armor patrol the grounds, and the air hums with the tension of a realm on the brink of upheaval. Inside, the halls are adorned with rich tapestries depicting the history of the Isles, and the scent of incense mingles with the faint metallic tang of weaponry.
+2. **The Hall of Archives:** Hidden beneath the castle, the Hall of Archives is a vast underground library filled with ancient tomes, maps, and artifacts tied to the Isles’ history and fey connections. Lanterns enchanted with eternal flames line the walls, casting flickering light over towering shelves and stone alcoves.
+      - **NPC:** Archivist Liraen Veilstaff, an elderly elf with a keen memory and dry wit.
+      - **Role:** Keeper of the archives, fiercely protective of its contents.
+      - **Hook:** Liraen recognizes the runes from Eryndor’s note and points the party to a specific tome on ancient fey artifacts. She requests assistance retrieving a stolen artifact in return.
+
+3. **The Watchtower of the Crimson Vigil:** One of the tallest towers in the castle, the Watchtower is both a defensive stronghold and a strategic observation point. From its parapets, the entirety of Caer Callidyrr and the surrounding sea can be surveyed.
+      - **NPC:** Captain Roderic Steelhelm, commander of the castle guard.
+      - **Role:** A gruff and disciplined soldier dedicated to protecting the Kendrick family and the city.
+      - **Hook:** Captain Steelhelm has been investigating reports of fey incursions into the **Silver Glade**, where villagers have gone missing or returned with fractured memories. He suspects a connection to a growing fey influence in the region and offers to share military intelligence on the area if the party helps scout the glade or investigate a specific incident involving disappearing patrols.
+   
 
 #### **Encounters and Events**
 
