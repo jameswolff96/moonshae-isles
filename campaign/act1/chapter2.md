@@ -56,7 +56,7 @@
 2. **A Warning about the Wailing Mariner:** A dockworker **Kellis Thorne** can be overheard talking of the cursed ship.
     - **Skill Challenge:** Wisdom (Insight, DC 12) to gauge his sincerity, or Charisma (Persuasion, DC 13) to learn more details.
 > **Read Aloud:**
-> As you pass a group of dockworkers unloading crates, one of them—a wiry man with sun-weathered skin—nudges his companion and whispers, “Ain’t no sane sailor touches that cursed ship. You know what happened to the last lot? Gone. Every one of ‘em.”
+> As you pass a group of dockworkers unloading crates, one of them—a wiry man with sun-weathered skin—nudges his companion and whispers, “Ain’t no sane sailor touches that cursed ship. You know what happened to the last lot? Gone. Every one of ‘em. Heard the captain is practically giving it away.”
 
 3. **Rumors of the Auction:** An esteemed professional, eager to attract bidders, a crier, **Mila Farrow** roams the docks.
     - **Skill Challenge:** Charisma (Persuasion, DC 14) to convince her to provide details about the rival bidders.
