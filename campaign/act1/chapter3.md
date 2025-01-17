@@ -83,7 +83,7 @@ The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, 
 #### Key Locations:
 
 1. **The Gilded Grain Tavern:** A popular spot for merchants and farmers to relax, often filled with chatter about trade deals and local events.
-      - **NPC:** Eddric Lorne, a retired adventurer turned grain merchant, who speaks of recent fey sightings near the Silver Glade.
+      - **NPC:** Eddric Lorne, a retired adventurer turned grain merchant, who speaks of recent fey sightings near the **Silver Glade**.
 2. **The Farmer’s Market:** An open-air market bustling with vendors selling everything from fresh produce to rare herbs.
 
 #### Encounters and Events:
@@ -113,7 +113,7 @@ The city of Caer Callidyr is divided into seven quarters: Dock, Plains, Garden, 
 #### Key Locations:
 
 1. **The Huntsman’s Lodge:** A gathering spot for hunters to exchange stories and plan expeditions.
-      - **NPC:** Rurik Ironfang, a grizzled dwarf who saw Eryndor heading into the Silver Glade.
+      - **NPC:** Rurik Ironfang, a grizzled dwarf who saw Eryndor heading into the **Silver Glade**.
 2. **Leather and Steel:** A shop selling hunting gear and traps.
 
 #### Encounters and Events:
