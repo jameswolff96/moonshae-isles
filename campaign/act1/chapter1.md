@@ -1,6 +1,6 @@
 # Chapter 1: A Missing Friend
 
-## Opening Scene
+## Section 1: Opening Scene
 
 > **Read Aloud:**
 > The Seafarer's Rest buzzes with the energy of a busy evening. Lanterns sway from iron brackets, casting warm golden light over patrons hunched over steaming bowls of stew. The salty tang of the sea mingles with the rich aroma of spiced fish. As you gather around the table, the absence of one chair feels heavier with every passing moment. The lively chatter of the inn fades into the background as you exchange glances, wondering where Eryndor might be.
@@ -20,6 +20,8 @@ The letter, sealed with a faintly glowing glyph in the shape of an angular black
 > *Eryndor*
 
 Beneath the message, an intricate sketch of an angular black obelisk is drawn, covered in runes that seem to shimmer faintly in the light. Alongside the sketch is a series of glyphs and symbols that appear to be part of a cipher.
+
+## Section 2: Solving the First Cipher
 
 ## Key Elements
 
