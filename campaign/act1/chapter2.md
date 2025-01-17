@@ -109,4 +109,4 @@ When sailing to the Moonshae Isles, once per day roll a d10 to determine an even
 | 4  | Protective Blessing: The ship gains temporary immunity to storm damage for the next 48 hours. |
 
 ### Wrapping up Chapter 2
-This chapter ends as the players spot the verdant shores of the Moonshae Isles, sailing into port in Caer Callidyr.
+This chapter ends as the players spot the verdant shores of the Moonshae Isles, sailing into port in Caer Callidyr. The players should enter the port late in the evening. Most shops are closed and the docks are basically empty. After a long, well deserved, rest the player's gain a level to be **Level 6**
